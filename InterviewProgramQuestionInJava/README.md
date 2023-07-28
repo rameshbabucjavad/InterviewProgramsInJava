@@ -49,4 +49,6 @@ Map<String, Long> map = Arrays.stream(s.split(""))
 Input: String s = "string data to count each character";
 Output: {s=1, t=5, r=3, i=1, n=2, g=1,  =5, d=1, a=5, o=2, c=4, u=1, e=2, h=2}
 
+# 24. Given a list of numbers, return the sum of all numbers.
+
             
